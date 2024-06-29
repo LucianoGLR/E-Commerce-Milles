@@ -7,6 +7,8 @@ server.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
 });
 
+//asdf
+
 // conn.sync().then(() => {
 // server.listen(PORT, () => {
 //   console.log(`Server listening on port ${PORT}`);
